@@ -1,6 +1,6 @@
 # Hi, I'm Jack
 
-I work at Shopify. I love the outdoors. Currently interested in all things AI.
+I work at Shopify. I love the outdoors. Currently interested in all things AI, especially building the primitives that unlock new capabilities.
 
 ## Projects
 
